@@ -1,0 +1,9 @@
+{
+    "license.author": "Yoshikage Kira",
+    "cSpell.words": [
+        "aiohttp",
+        "asyncprawcore",
+        "Prawcore"
+    ],
+    "autoDocstring.docstringFormat": "sphinx"
+}
